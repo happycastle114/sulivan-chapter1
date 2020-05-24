@@ -1,0 +1,6 @@
+def sth():
+  print ("Nope")
+  
+sth()
+
+# 힝
